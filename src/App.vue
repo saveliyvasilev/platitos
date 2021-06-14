@@ -6,6 +6,19 @@
   <router-view />
 </template>
 
+<script>
+import { mapActions } from 'vuex'
+
+export default {
+  created() {
+    this.setDefaultImage();
+  },
+  methods: {
+    ...mapActions(["setDefaultImage"]),
+  },
+}
+</script>
+
 <style lang="scss">
 @import "styles.scss";
 #app {
