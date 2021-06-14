@@ -4,7 +4,10 @@
       <h1>Qué comemos hoy?</h1>
     </div>
     <div class="about">
-      ABOUT ipsum dolor sit amet consectetur adipisicing elit. Dolore aperiam totam velit cum. Ut rem debitis rerum. Vel, reiciendis cum.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae temporibus facere maiores incidunt a rem, itaque animi sit. Eum aut magni exercitationem, amet harum quod quibusdam expedita deleniti recusandae vero!
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae temporibus facere maiores incidunt a rem, itaque animi sit. Eum aut magni exercitationem, amet harum quod quibusdam expedita deleniti recusandae vero!
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae temporibus facere maiores incidunt a rem, itaque animi sit. Eum aut magni exercitationem, amet harum quod quibusdam expedita deleniti recusandae vero!
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae temporibus facere maiores incidunt a rem, itaque animi sit. Eum aut magni exercitationem, amet harum quod quibusdam expedita deleniti recusandae vero!
     </div>
     <div class="dish-grid-container">
       <DishGrid />
